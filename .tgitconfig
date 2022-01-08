@@ -1,0 +1,4 @@
+[hook "prepush"]
+	cmdline = C:\\Users\\d.zebrowski\\Documents\\ncs\\zephyr\\wbms\\.git\\hooks\\pre-push.bat
+	wait = false
+	show = true
